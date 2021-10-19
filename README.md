@@ -1,6 +1,6 @@
 ![Vote](Images/VoteLogo.png)
 
-# Vote Count Analyzer
+# Vote Tally Analyzer
 
 ## Author
 
