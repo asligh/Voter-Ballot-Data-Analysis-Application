@@ -25,8 +25,8 @@ To run the PyPoll program perform the following steps:
 
 ## Illustrative Input Data Sample
 
-![Kickstart](Images/DataInputSample.png)
+![Vote](Images/IllustrativeDataInput.png)
 
 ## Illustrative Data Output
 
-![Kickstart](Images/analysisOutput.png)
+![Vote](Images/IllustrativeDataOutput.png)
