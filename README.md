@@ -1,4 +1,4 @@
-![Kickstart](Images/Franklin.png)
+![Kickstart](Images/VoteLogo.png)
 
 # Vote Count Analyzer
 
