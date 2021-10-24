@@ -1,6 +1,6 @@
 ![Vote](Images/VoteLogo.png)
 
-# Vote Tally Analyzer
+# Voter Ballot Data Analysis Application 
 
 ## Author
 
