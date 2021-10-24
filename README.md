@@ -12,7 +12,7 @@ Python, VS Code, CSV
 
 ## Purpose
 
-The purpose of the PyPoll application is to analyze voter ballots and generate election results to both the terminal at to text file using a scaleable, object-oriented approach.
+The purpose of the Voter Ballot Data Analysis application is to analyze voter ballots and generate election results to both the terminal at to text file using a scaleable, object-oriented approach.
 
 ## Instructions
 
